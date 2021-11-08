@@ -1,8 +1,8 @@
 /*
  * Author: Jerry Shao  
- * Student Number: 84982321
- * UBC Alumni Email: shaojerry@alumni.ubc.ca
- * Lab Section: L2K
+ * Student Number: 
+ * UBC Alumni Email: 
+ * Lab Section: 
  * Date:             4/9/2020 9:00 AM
  *           
  * Purpose: The Simon Game flashes LEDs in a random order to the user, who has to return by clicking the correct LEDs and in correct order back. Difficultly is changeable.
